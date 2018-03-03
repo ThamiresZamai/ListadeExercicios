@@ -1,0 +1,7 @@
+C:\Projetos.Net\Exercício3\Exercício3\bin\Debug\Exercício3.exe.config
+C:\Projetos.Net\Exercício3\Exercício3\bin\Debug\Exercício3.exe
+C:\Projetos.Net\Exercício3\Exercício3\bin\Debug\Exercício3.pdb
+C:\Projetos.Net\Exercício3\Exercício3\obj\Debug\Exercício3.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\Exercício3\Exercício3\obj\Debug\Exercício3.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Exercício3\Exercício3\obj\Debug\Exercício3.exe
+C:\Projetos.Net\Exercício3\Exercício3\obj\Debug\Exercício3.pdb

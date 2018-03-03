@@ -1,0 +1,7 @@
+C:\Projetos.Net\exercício8\exercício8\bin\Debug\exercício8.exe.config
+C:\Projetos.Net\exercício8\exercício8\bin\Debug\exercício8.exe
+C:\Projetos.Net\exercício8\exercício8\bin\Debug\exercício8.pdb
+C:\Projetos.Net\exercício8\exercício8\obj\Debug\exercício8.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\exercício8\exercício8\obj\Debug\exercício8.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\exercício8\exercício8\obj\Debug\exercício8.exe
+C:\Projetos.Net\exercício8\exercício8\obj\Debug\exercício8.pdb

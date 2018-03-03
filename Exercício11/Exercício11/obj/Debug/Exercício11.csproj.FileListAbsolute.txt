@@ -1,0 +1,7 @@
+C:\Projetos.Net\Exercício11\Exercício11\bin\Debug\Exercício11.exe.config
+C:\Projetos.Net\Exercício11\Exercício11\bin\Debug\Exercício11.exe
+C:\Projetos.Net\Exercício11\Exercício11\bin\Debug\Exercício11.pdb
+C:\Projetos.Net\Exercício11\Exercício11\obj\Debug\Exercício11.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Exercício11\Exercício11\obj\Debug\Exercício11.exe
+C:\Projetos.Net\Exercício11\Exercício11\obj\Debug\Exercício11.pdb
+C:\Projetos.Net\Exercício11\Exercício11\obj\Debug\Exercício11.csprojResolveAssemblyReference.cache

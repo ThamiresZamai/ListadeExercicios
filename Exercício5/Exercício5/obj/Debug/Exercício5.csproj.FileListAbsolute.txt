@@ -1,0 +1,7 @@
+C:\Projetos.Net\Exercício5\Exercício5\obj\Debug\Exercício5.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\Exercício5\Exercício5\obj\Debug\Exercício5.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Exercício5\Exercício5\bin\Debug\Exercício5.exe.config
+C:\Projetos.Net\Exercício5\Exercício5\bin\Debug\Exercício5.exe
+C:\Projetos.Net\Exercício5\Exercício5\bin\Debug\Exercício5.pdb
+C:\Projetos.Net\Exercício5\Exercício5\obj\Debug\Exercício5.exe
+C:\Projetos.Net\Exercício5\Exercício5\obj\Debug\Exercício5.pdb

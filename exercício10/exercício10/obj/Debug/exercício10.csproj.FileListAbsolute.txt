@@ -1,0 +1,7 @@
+C:\Projetos.Net\exercício10\exercício10\bin\Debug\exercício10.exe.config
+C:\Projetos.Net\exercício10\exercício10\bin\Debug\exercício10.exe
+C:\Projetos.Net\exercício10\exercício10\bin\Debug\exercício10.pdb
+C:\Projetos.Net\exercício10\exercício10\obj\Debug\exercício10.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\exercício10\exercício10\obj\Debug\exercício10.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\exercício10\exercício10\obj\Debug\exercício10.exe
+C:\Projetos.Net\exercício10\exercício10\obj\Debug\exercício10.pdb

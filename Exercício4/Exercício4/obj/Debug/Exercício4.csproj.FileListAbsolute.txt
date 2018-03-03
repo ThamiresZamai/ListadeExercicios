@@ -1,0 +1,7 @@
+C:\Projetos.Net\Exercício4\Exercício4\bin\Debug\Exercício4.exe.config
+C:\Projetos.Net\Exercício4\Exercício4\bin\Debug\Exercício4.exe
+C:\Projetos.Net\Exercício4\Exercício4\bin\Debug\Exercício4.pdb
+C:\Projetos.Net\Exercício4\Exercício4\obj\Debug\Exercício4.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\Exercício4\Exercício4\obj\Debug\Exercício4.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Exercício4\Exercício4\obj\Debug\Exercício4.exe
+C:\Projetos.Net\Exercício4\Exercício4\obj\Debug\Exercício4.pdb

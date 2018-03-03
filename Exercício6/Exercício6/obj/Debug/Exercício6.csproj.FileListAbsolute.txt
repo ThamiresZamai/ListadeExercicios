@@ -1,0 +1,7 @@
+C:\Projetos.Net\Exercício6\Exercício6\bin\Debug\Exercício6.exe.config
+C:\Projetos.Net\Exercício6\Exercício6\bin\Debug\Exercício6.exe
+C:\Projetos.Net\Exercício6\Exercício6\bin\Debug\Exercício6.pdb
+C:\Projetos.Net\Exercício6\Exercício6\obj\Debug\Exercício6.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\Exercício6\Exercício6\obj\Debug\Exercício6.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Exercício6\Exercício6\obj\Debug\Exercício6.exe
+C:\Projetos.Net\Exercício6\Exercício6\obj\Debug\Exercício6.pdb

@@ -1,0 +1,7 @@
+C:\Projetos.Net\Exercício12\Exercício12\bin\Debug\Exercício12.exe.config
+C:\Projetos.Net\Exercício12\Exercício12\bin\Debug\Exercício12.exe
+C:\Projetos.Net\Exercício12\Exercício12\bin\Debug\Exercício12.pdb
+C:\Projetos.Net\Exercício12\Exercício12\obj\Debug\Exercício12.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Exercício12\Exercício12\obj\Debug\Exercício12.exe
+C:\Projetos.Net\Exercício12\Exercício12\obj\Debug\Exercício12.pdb
+C:\Projetos.Net\Exercício12\Exercício12\obj\Debug\Exercício12.csprojResolveAssemblyReference.cache
