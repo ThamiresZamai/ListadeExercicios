@@ -15,14 +15,14 @@ namespace Exercício9
             Console.WriteLine("Informe o código do produto: ");
             for (int i = 0; i < 15; i++)
             {
-                pro.codigo[14] = Convert.ToDouble(Console.ReadLine());
+                pro.codigo[i] = Convert.ToDouble(Console.ReadLine());
             }
            
 
             Console.WriteLine("Informe o preço do produto: ");
             for (int i = 0; i < 15; i++)
             {
-                pro.preço[14] = Convert.ToDouble(Console.ReadLine());
+                pro.preço[i] = Convert.ToDouble(Console.ReadLine());
             }
             
 

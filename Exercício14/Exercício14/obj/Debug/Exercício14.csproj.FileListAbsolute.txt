@@ -1,0 +1,7 @@
+C:\Projetos.Net\Exercício14\Exercício14\bin\Debug\Exercício14.exe.config
+C:\Projetos.Net\Exercício14\Exercício14\bin\Debug\Exercício14.exe
+C:\Projetos.Net\Exercício14\Exercício14\bin\Debug\Exercício14.pdb
+C:\Projetos.Net\Exercício14\Exercício14\obj\Debug\Exercício14.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\Exercício14\Exercício14\obj\Debug\Exercício14.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\Exercício14\Exercício14\obj\Debug\Exercício14.exe
+C:\Projetos.Net\Exercício14\Exercício14\obj\Debug\Exercício14.pdb

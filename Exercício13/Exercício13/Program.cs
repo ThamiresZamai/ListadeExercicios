@@ -11,16 +11,11 @@ namespace Exercício13
         static void Main(string[] args)
         {
             Imprimir im = new Imprimir();
-            Console.WriteLine("Insira a quantidade de números a serem inseridos: ");
+            Console.WriteLine("Insira um número: ");
             im.qtd = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Insira as numeros: ");
-            for (int i = 0; i < im.num; i++)
-            {
-                im.num[i] = Convert.ToDouble(Console.ReadLine());
-            }
-
-            Console.WriteLine(im.Imprima());
+            im.Imprima();
+            Console.ReadKey();
         }
     }
 }

@@ -17,7 +17,7 @@ namespace exercício10
 
             for (int i = 0; i < 4; i++)
             {
-                soma += Salario[i];
+                soma = soma + Salario[i];
             }
 
             media = soma / 4;

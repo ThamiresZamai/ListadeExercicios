@@ -14,7 +14,7 @@ namespace Exercício11
             Console.WriteLine("Informe 5 temperaturas: ");
             for (int i = 0; i < 5; i++)
             {
-                tem.Temp[4] = Convert.ToInt32(Console.ReadLine());
+                tem.Temp[i] = Convert.ToInt32(Console.ReadLine());
                 
             }
 

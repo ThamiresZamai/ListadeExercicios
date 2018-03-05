@@ -6,18 +6,17 @@ using System.Threading.Tasks;
 
 namespace Exercício13
 {
-    class Imprimir
+    public class Imprimir
     {
-        public int qtd { get; set; }
-        public double[] num = new double[qtd];
+        public double qtd { get; set; }
 
-        public String Imprima() {
-
-            for (int i = 0; i <= qtd; i++)
+        public void Imprima()
+        {
+            for (int i = 0; i < qtd; i++)
             {
-                return "Numero: ["+i+"]";
+                Console.WriteLine("Número: [" + 
+                    i + "]=" + (i + 1));
             }
-            
         }
     }
 }

@@ -11,12 +11,13 @@ namespace Exercício7
         static void Main(string[] args)
         {
             Calculo cal = new Calculo();
-            Console.WriteLine("Informe 3 numeros diferentes: ");
+            
+                Console.WriteLine("Informe 3 numeros diferentes: ");
 
-            for (int i = 0; i < 3; i++)
-            {
-                cal.numeros[i] = Convert.ToInt32(Console.ReadLine());
-            }
+                for (int i = 0; i < 3; i++)
+                {
+                    cal.numeros[i] = Convert.ToInt32(Console.ReadLine());
+                }
             
 
             Console.WriteLine("O maior número é: " + cal.Maior());

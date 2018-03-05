@@ -34,7 +34,7 @@ namespace Exercício9
 
             for (int i = 0; i < 15; i++)
             {
-                soma += preço[i];
+                soma = soma + preço[i];
             }
             media = soma / 15;
 

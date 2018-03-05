@@ -15,7 +15,7 @@ namespace Exercício12
 
             for (int i = 0; i < 10; i++)
             {
-                soma = soma + num[i];
+                soma += num[i];
             }
 
             return soma;

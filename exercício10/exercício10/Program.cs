@@ -14,19 +14,19 @@ namespace exercício10
             Console.WriteLine("Informe o salário: ");
             for (int i = 0; i < 4; i++)
             {
-                pes.Salario[3] = Convert.ToDouble(Console.ReadLine());
+                pes.Salario[i] = Convert.ToDouble(Console.ReadLine());
             }
 
             Console.WriteLine("Informe a quantidade de filhos: ");
             for (int i = 0; i < 4; i++)
             {
-                pes.Filhos[3] = Convert.ToInt32(Console.ReadLine());
+                pes.Filhos[i] = Convert.ToInt32(Console.ReadLine());
             }
 
             Console.WriteLine("Média de salário da população: " + pes.MediaSal());
             Console.WriteLine("Média do número de filhos: " + pes.MediaFi());
             Console.WriteLine("Maior salário dos habitantes: " + pes.Maior());
-            Console.WriteLine("Percentual de pessoas com salário menor que R$ 150,00: " + pes.Porcentagem());
+            Console.WriteLine("Percentual de pessoas com salário menor que R$ 150,00: " + pes.Porcentagem() + "%" );
             Console.ReadKey();
         }
     }
